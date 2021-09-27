@@ -1,4 +1,5 @@
-# Algorithms Final Project
+# Algorithms Final Project 
+## SMU 2020
 
 
 ## Hello welcome to Manov's Maze Solver!
